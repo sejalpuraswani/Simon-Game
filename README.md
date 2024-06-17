@@ -19,3 +19,6 @@
 * CSS
 * JavaScript
 * jQuery
+
+### Live Link
+[Experience the game live here.](https://simon-game-mu-mocha.vercel.app/)
